@@ -1,0 +1,20 @@
+[
+    {
+        "username": "paulo1",
+        "title": "Test Post 1",
+        "likes": 27,
+        "image_url": "https://dummyimage.com/1000x676"
+    },
+    {
+        "username": "andrea1",
+        "title": "Test Post 2",
+        "likes": 7,
+        "image_url": "https://dummyimage.com/1000x676"
+    },
+    {
+        "username": "carmen1",
+        "title": "Test Post 3",
+        "likes": 12,
+        "image_url": "https://dummyimage.com/1000x676"
+    },
+]
